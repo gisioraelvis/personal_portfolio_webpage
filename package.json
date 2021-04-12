@@ -1,0 +1,22 @@
+{
+  "name": "personal_portfolio_webpage",
+  "version": "1.0.0",
+  "description": "personal_portfolio_webpage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisioraelvis/personal_portfolio_webpage.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Gisiora Elvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gisioraelvis/personal_portfolio_webpage/issues"
+  },
+  "homepage": "https://github.com/gisioraelvis/personal_portfolio_webpage#readme"
+}
