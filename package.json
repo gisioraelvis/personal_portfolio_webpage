@@ -4,6 +4,8 @@
   "description": "personal_portfolio_webpage",
   "main": "index.html",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/gisioraelvis/personal_portfolio_webpage/issues"
   },
-  "homepage": "https://github.com/gisioraelvis/personal_portfolio_webpage#readme"
+  "homepage": "https://gisioraelvis.github.io/personal_portfolio_webpage"
 }
