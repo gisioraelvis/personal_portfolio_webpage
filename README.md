@@ -33,8 +33,6 @@
                 alt="Javascript" />&nbsp;&nbsp;&nbsp
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
                 alt="React.js" width="55" />
-            <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
-                width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
@@ -52,43 +50,3 @@
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
-<!--     <div>
-        <h2><img align="center" width="35"
-                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
-            Repositories</h2>
-        <p align="center">
-            <a href="https://github.com/gisioraelvis/whatsend">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/get-ascii-image">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/markitdown">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=dark" /></a>
-            <a href="https://github.com/aromalanil/unchat_frontend">
-                <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=dark" /></a>
-        </p>
-    </div> -->
-    <br />
-    <div>
-        <h2>⏱ My Stats
-        </h2>
-    </div>
-    <br />
-    <div>
-        <details>
-            <summary>
-                :octocat: Github Stats
-            </summary>
-            <br />
-            <p align="center">
-                <img height="160" alt="Gisiora's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=gisioraelvis&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Gisiora's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisioraelvis&hide=assembly&layout=compact&theme=dark" />
-            </p>
-        </details>
-    </div>
-
-</div>
-
