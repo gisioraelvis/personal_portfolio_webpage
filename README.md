@@ -5,9 +5,8 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Junior developer</b> 🚀 from <b>Kenya</b> <img
-            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
-        I love building projects 😍 </p>
+        I am a <b>Web developer</b> 🚀 .<br />
+        I love building with code 😍 </p>
     <div>
         <a href="https://twitter.com/gisioraelvis" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -24,7 +23,7 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍I'm Pursuing the FreecodeCamp Coding Curriculum  ✍🏻 💻</li>
+            <li> 👨🏻‍I'm Pursuing the a Bsc.Computer Science at Egerton Universty Kenya ✍🏻 💻</li>
     </div>
     <div>
         <h2>🧰 Languages and Tools</h2>
